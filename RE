@@ -1,0 +1,19 @@
+List of RE - (R)everse (E)ngineering resources in no perticular order
+
+ARM - (A)dvanced (R)ISC (M)achine
+https://azeria-labs.com
+
+QEMU 
+http://www.qemu.org/
+
+AFL - (A)merican (F)uzzy (L)op
+AFL gcc (compiler)
+http://lcamtuf.coredump.cx/afl/
+
+Teh fUZZ - zuff Address Sanitiser (ASAN) AFL
+https://fuzzing-project.org/tutorial3.html
+
+http://research.aurainfosec.io/hunting-for-bugs-101/
+
+https://docs.rs/crate/afl-sys/0.1.2/source/afl-2.10b/docs/env_variables.txt
+
