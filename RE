@@ -1,4 +1,4 @@
-List of RE - (R)everse (E)ngineering resources in no perticular order
+List of RE - (R)everse (E)ngineering resources and FUzzing  in no perticular order
 
 ARM - (A)dvanced (R)ISC (M)achine
 https://azeria-labs.com
@@ -16,4 +16,6 @@ https://fuzzing-project.org/tutorial3.html
 http://research.aurainfosec.io/hunting-for-bugs-101/
 
 https://docs.rs/crate/afl-sys/0.1.2/source/afl-2.10b/docs/env_variables.txt
+
+https://www.softscheck.com/en/identifying-security-vulnerabilities-with-cloud-fuzzing/
 
